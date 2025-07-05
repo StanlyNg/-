@@ -15,4 +15,4 @@
 - **GitHub 开源贡献**：帮同学&朋友修复文档中的拼写错误   
 - **自学**：通过 freeCodeCamp 学习前端开发  
 
-📫 联系我：**stanlyng57@gmail.com** | [GitHub](https://github.com/stanlyng)  
+📫 联系我：**stanlyng57@gmail.com** | [GitHub](https://github.com/stanlyng)
